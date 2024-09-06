@@ -40,3 +40,13 @@ To run the code and reproduce the analysis results, install the necessary Python
 
 ```bash
 pip install -r requirements.txt
+
+## Project Structure
+
+The project directory is organized as follows:
+
+- **`requirements.txt`**: Contains the list of Python dependencies required for the project.
+- **`src/`**: This directory includes the source code for data processing, topic modeling, and sentiment analysis.
+- **`results/`**: Stores the processed data, topic modeling results, and output visualizations.
+- **`config/`**: Includes configuration files for setting parameters and options used throughout the project.
+- **`dataset/`**: Contains both the original and processed data used in the analysis.
